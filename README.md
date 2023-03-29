@@ -2,7 +2,6 @@
 
 ### Front-end
 
-<div>
   <picture>
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" style="display: inline;" />
   </picture>
@@ -12,9 +11,7 @@
   <picture>
     <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=Three.js&logoColor=white" style="display: inline;" />
   </picture>
-</div>
-
-<div>
+<br/>
   <picture>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" style="display: inline;" />
   </picture>
@@ -27,9 +24,7 @@
   <picture>
     <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white" style="display: inline;" />
   </picture>
-</div>
-
-<div>
+<br/>
   <picture>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black" style="display: inline;" />
   </picture>
@@ -42,7 +37,6 @@
   <picture>
     <img src="https://img.shields.io/badge/styled_components-DB7093?style=flat-square&logo=styled-components&logoColor=white" style="display: inline;" />
   </picture>
-</div>
 
 
 
