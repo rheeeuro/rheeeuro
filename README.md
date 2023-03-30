@@ -1,5 +1,9 @@
 ## 💻 STACK
 
+
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" style="display:inline-block; pointer-events:none;" />
+
+
 ### Front-end
 
 [![](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](#)
