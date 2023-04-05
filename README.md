@@ -19,7 +19,7 @@
 ### Etc
 
 [![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)](#)
-[![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white)](#)
+[![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)](#)
 [![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](#)
 [![](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)](#)
 [![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](#)
@@ -29,5 +29,6 @@
 ## 📪 Contact
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://rheeeuro.github.io/TIL/)](https://rheeeuro.github.io)
+[![Portfolio Badge](http://img.shields.io/badge/-Portfolio-319795?style=flat-square&logo=chakraui&link=https://portfolio-rheeeuro.vercel.app)](https://portfolio-rheeeuro.vercel.app)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rheeeuro@gmail.com)](mailto:rheeeuro@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/-Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:eurohand@naver.com)](mailto:eurohand@naver.com)
