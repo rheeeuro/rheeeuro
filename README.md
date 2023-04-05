@@ -28,6 +28,6 @@
 
 ## 📪 Contact
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://rheeeuro.github.io/TIL/)](https://rheeeuro.github.io/TIL/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://rheeeuro.github.io/TIL/)](https://rheeeuro.github.io)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rheeeuro@gmail.com)](mailto:rheeeuro@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/-Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:eurohand@naver.com)](mailto:eurohand@naver.com)
