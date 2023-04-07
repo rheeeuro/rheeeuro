@@ -1,4 +1,4 @@
-## 💻 STACK
+## 💻 SKILL
 
 ### Front-end
 
