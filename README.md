@@ -1,6 +1,6 @@
 ## 💻 SKILL
 
-### Front-end
+### FRONT-END
 
 [![](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](#)
 [![](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)](#)
@@ -21,7 +21,7 @@
 
 
 
-### Etc
+### ETC
 
 [![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)](#)
 [![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)](#)
@@ -32,7 +32,7 @@
 
 <br/><br/>
 
-## 📪 Contact
+## 📪 CONTACT
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://rheeeuro.github.io/TIL/)](https://rheeeuro.github.io)
 [![Portfolio Badge](http://img.shields.io/badge/-Portfolio-319795?style=flat-square&logo=chakraui&logoColor=white&link=https://portfolio-rheeeuro.vercel.app)](https://portfolio-rheeeuro.vercel.app)
