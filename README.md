@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=00000&text=&animation=twinkling&height=80)![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=35&duration=4000&pause=50000&color=000000&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=60&lines=Welcome+to+Euro's+GitHub!)
+My name is Rhee Euro. I'm a front developer.
+
 ## 💻 SKILL
 
 ### FRONT-END
